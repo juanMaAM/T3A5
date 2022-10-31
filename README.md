@@ -20,5 +20,5 @@ El menú principal debe tener las siguientes opciones:
 Diseñar interfaz...
 ~~~
 ##Etapa 3. diseño de la solucion
-![]()
+![](https://github.com/juanMaAM/T3A5/blob/main/Slide1.jpg)
 
