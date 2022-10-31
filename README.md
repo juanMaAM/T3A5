@@ -19,3 +19,6 @@ El menú principal debe tener las siguientes opciones:
 ~~~
 Diseñar interfaz...
 ~~~
+##Etapa 3. diseño de la solucion
+![]()
+
